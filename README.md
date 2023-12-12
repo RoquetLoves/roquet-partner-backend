@@ -6,40 +6,40 @@
 
 **本站地址：[朋友多](https://rendong-frontend.icu/)**
 
-**前端地址： https://github.com/qimu666/jujiao-garden-frontend**
+**前端地址： https://github.com/RoquetLoves/roquet-partner-frontend**
 
-**后端地址： https://github.com/qimu666/jujiao-yuan-backend**
+**后端地址： https://github.com/RoquetLoves/roquet-partner-backend**
 
 🙏🏻 **大家喜欢这个项目的话，感谢动手点点 star**
 
 ## 界面展示
 
 ### 用户登录/注册
-![img_2.png](img_2.png)
+<img src="https://roquet-1322881756.cos.ap-guangzhou.myqcloud.com/00f66e19ee94efbc10de7db63ff7f81.jpg" alt="用户登录/注册" style="zoom:50%;" />
 
 ### 好友列表/好友申请
 
-![img_4.png](img_4.png)
+<img src="https://roquet-1322881756.cos.ap-guangzhou.myqcloud.com/046e9e53cfcbdf770a3fac005387e0c.jpg" alt="好友列表/好友申请" style="zoom:50%;" />
 
 ### 在线聊天
 
-![img_5.png](img_5.png)
+<img src="https://roquet-1322881756.cos.ap-guangzhou.myqcloud.com/00f66e19ee94efbc10de7db63ff7f81.jpg" alt="在线聊天" style="zoom:50%;" />
 
 ### 用户推荐页
 
-![img_7.png](img_7.png)
+<img src="https://roquet-1322881756.cos.ap-guangzhou.myqcloud.com/6335156ed0eb0add967609e28abceac.jpg" alt="用户推荐" style="zoom:50%;" />
 
 ### 根据标签搜索用户
 
-![img_6.png](img_6.png)
+<img src="https://roquet-1322881756.cos.ap-guangzhou.myqcloud.com/img_6.png" alt="用户推荐" style="zoom:50%;" />
 
 ### 队伍页
 
-![img_8.png](img_8.png)
+<img src="https://roquet-1322881756.cos.ap-guangzhou.myqcloud.com/4a88315dfb7d3c390ed5c6cd3568e65.jpg" alt="队伍页" style="zoom:50%;" />
 
 ### 个人中心页
 
-![img_1.png](img_1.png)
+<img src="https://roquet-1322881756.cos.ap-guangzhou.myqcloud.com/img_1.png" alt="个人中心页" style="zoom:50%;" />
 
 **详细界面见：** [朋友多](https://rendong-frontend.icu/) 或doc目录
 
